@@ -1,4 +1,4 @@
-# PyTorch GAN for MNIST Dataset
+# PyTorch based GAN model for MNIST Dataset
 
 ## Overview
 
