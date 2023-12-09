@@ -41,17 +41,4 @@ In this project the PyTorch framework is used to build the GAN model on the MNIS
 
 ---
 
-## Key Concepts Explored
-
-1. Generative Adversarial Network
-2. Generator
-3. Discriminator
-4. The loss function of the Generator.
-5. The Loss function of the Discriminator.
-6. Transform data in PyTorch
-7. GAN model from scratch in PyTorch
-8. Generate a fake image using the Generator
-
----
-
 
